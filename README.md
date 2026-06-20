@@ -1,5 +1,15 @@
 # Sistema de Controle de TCC
 
+## 🔗 Protótipo Online
+
+Acesse o protótipo pelo link abaixo:
+
+https://simple-mint-90450808.figma.site
+
+Ou clique aqui:
+
+[Visualizar Protótipo](https://simple-mint-90450808.figma.site)
+
 ## Descrição do Projeto
 
 O Sistema de Controle de TCC é uma aplicação web proposta para auxiliar no gerenciamento de Trabalhos de Conclusão de Curso (TCC). O sistema permite o cadastro de alunos, orientadores, trabalhos e entregas, facilitando o acompanhamento do progresso de cada projeto acadêmico.
